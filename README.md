@@ -1,5 +1,6 @@
 # Experiment 7: Interface Design for DUT Ports and Signal Encapsulation
-
+## Pradeep M
+## 212223060200
 ---
 
 ## Aim  
@@ -128,7 +129,8 @@ endmodule
 ```
 ### Simulation Output
 
---- PAste the output here
+<img width="1920" height="1080" alt="Screenshot 2025-11-10 085424" src="https://github.com/user-attachments/assets/f62c5160-1afe-428e-9f6d-762b480535c8" />
+
 
 ### Result
 
